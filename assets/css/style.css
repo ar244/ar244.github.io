@@ -32,10 +32,7 @@ header {
 
 .wrapper {
 	clear: both;
-/*	background-color: lightgrey;*/
 	background-image: url("../../assets/images/ep_naturalwhite.png");
-	/*background-repeat: repeat-x;
-	background-repeat: repeat-y;*/
 	height:500px;
 	border-top: solid #dddddd;
 }
@@ -114,7 +111,7 @@ h3 {
 }
 #aboutMe {
 	width: 500px;
-	height: 350px;
+	height: 250px;
 	left: 100px;
 	top: 25%;
 	padding: 20px;
